@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "This project is bundle of all react concepts",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "npx parcel index.html"
   },
   "author": "Jeevan Nikam",
   "license": "ISC",
