@@ -1,5 +1,5 @@
 const Card = (props) => {
-  console.log("props", props);
+//   console.log("props", props);
  const { cardData }  = props;
  const { name, cuisines, avgRating, cloudinaryImageId } = cardData?.info;
  const { deliveryTime } = cardData?.info?.sla;

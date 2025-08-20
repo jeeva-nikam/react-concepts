@@ -1869,3 +1869,5 @@ export const cardList = [
                     }
                   }
                 ];
+
+export const RES_MENU = "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=18.6606495&lng=73.73215850000001&restaurantId="                
